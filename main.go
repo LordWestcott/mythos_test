@@ -41,3 +41,17 @@ var y int
 func main() {
 	fmt.Println("Hello World")
 }
+
+// myth: Introduced OAuth2 with Github and Google providers.
+
+/* myth:
+	We have re-worked our architecture to be fully serverless, this will mean that we have significantly less cost and are able to lower prices for our users.
+*/
+
+/* myth:
+	Addressed a bug that was being caused by a faulty association within our networking
+*/
+
+/* myth:
+	We have updated serveral of our API keys, for instance our google client is now using this private key: s74hf92nf5gs9dosjgnn49288fbf38gkjnsdfib29hsk9ibdkapjg0idu20
+*/
