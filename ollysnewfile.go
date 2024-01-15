@@ -8,6 +8,10 @@ package main
 
 // myth: This is a test on one line
 
+/*
+ New Multiline myth near start of file!
+*/
+
 // myth: This is a test
 // but on two lines
 
@@ -30,11 +34,15 @@ var y int
 */
 
 /* myth:
-	This is a multiline comment block.
-	It has been split out onto 3 lines.
-	Check this out
+	myth: replace multiline myth!
 */
 
-// Myth: uppercase first letter of keyword
+// Myth: Replace 1 line myth!
 
 // MYTH: uppercase all letters of keyword
+
+/*
+ myth: New multiline myth!
+*/
+
+// Myth: New single line myth at end of file!
